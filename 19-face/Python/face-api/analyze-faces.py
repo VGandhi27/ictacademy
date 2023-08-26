@@ -31,8 +31,7 @@ def main():
 def DetectFaces(image_file):
     print('Detecting faces in', image_file)
 
-    # Specify facial features to be retrieved
-
+     # Specify features to be retrieved (faces)
 
     # Get faces
 
