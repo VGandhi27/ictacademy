@@ -1,9 +1,11 @@
-# AI-102: AI Engineer
+# ICT ACADEMY | AI-102: AI Engineer
 
-This repo contains the lab instructions and files used in Microsoft Official Curriculum course AI-102.
+This repo contains the lab instructions and files used in the Microsoft Official Curriculum course AI-102.
 
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
+- **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+
+- Video : soon be provided
 
 ## What are we doing?
 
